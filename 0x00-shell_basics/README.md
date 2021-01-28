@@ -1,1 +1,1 @@
-The scripts in this project are linux commands 
+This project is about basic commands in shell
