@@ -1,0 +1,1 @@
+This file is about basic  commands in shell
