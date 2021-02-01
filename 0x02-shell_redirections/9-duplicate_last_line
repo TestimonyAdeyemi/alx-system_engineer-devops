@@ -1,0 +1,2 @@
+#!/bin/bash
+paste -d '\n' $(yes test.txt|tail -1)
