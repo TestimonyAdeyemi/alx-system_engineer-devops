@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "PATH="$HOME/action:$PATH"" >> /etc/profile
+export PATH="$PATH/action"
