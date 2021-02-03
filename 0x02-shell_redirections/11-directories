@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -dla -minidepth /shell/fun_with_the_shell
+find . -mindepth 1 -type d | wc -l

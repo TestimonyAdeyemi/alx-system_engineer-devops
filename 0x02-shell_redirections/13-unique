@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 /tmp/0x02 | sort | fmt -w 1
+sort | uniq -u
